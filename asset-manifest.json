@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nguyenhoangtuan/static/css/main.0b3d636b.css",
+    "main.js": "/nguyenhoangtuan/static/js/main.aecc357b.js",
+    "static/media/bg.jpeg": "/nguyenhoangtuan/static/media/bg.32485cdd929c55165113.jpeg",
+    "index.html": "/nguyenhoangtuan/index.html",
+    "main.0b3d636b.css.map": "/nguyenhoangtuan/static/css/main.0b3d636b.css.map",
+    "main.aecc357b.js.map": "/nguyenhoangtuan/static/js/main.aecc357b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b3d636b.css",
+    "static/js/main.aecc357b.js"
+  ]
+}
